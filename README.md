@@ -17,9 +17,8 @@
 
 #
 
-<img src="https://github-streak.herokuapp.com/ARPITxxPATEL?theme=tokyonight" alt="" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ARPITxxPATEL&show_icons=true&theme=tokyonight_duo" alt="ARPITxxPATEL" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPITxxPATEL&show_icons=true&theme=tokyonight_duo" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARPITxxPATEL&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 #
 
