@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1>
-<h3 align="center">Currently, learning and exploring everything.</h3>
+<h3 align="center">"Student of Computer Engineering, with passion and eager of expanding knowledge in any domain."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ARPITxxPATEL" alt="ARPITxxPATEL" /> </p>
 
