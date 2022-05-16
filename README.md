@@ -17,16 +17,17 @@
 
 #
 
-<img src="https://github-streak.herokuapp.com/phoenixcreation?theme=highcontrast" alt="" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixcreation&show_icons=true&theme=vision-friendly-dark" alt="phoenixcreation" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixcreation&show_icons=true&theme=vision-friendly-dark" />
+<img src="https://github-streak.herokuapp.com/ARPITxxPATEL?theme=tokyonight_duo" alt="" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ARPITxxPATEL&show_icons=true&theme=tokyonight_duo" alt="ARPITxxPATEL" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPITxxPATEL&show_icons=true&theme=tokyonight_duo" />
 
 #
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/arpitkumar-patel#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/arpitkumar-patel#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]()
-[![website](./img/instagram-dark.svg)]()
+
+<!-- [![website](./img/instagram-light.svg)]()
+[![website](./img/instagram-dark.svg)]() -->
 
 #
